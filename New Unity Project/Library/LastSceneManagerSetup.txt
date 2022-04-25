@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/prefabs/jde pls no borrar.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
